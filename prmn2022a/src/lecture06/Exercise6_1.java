@@ -11,7 +11,7 @@ public class Exercise6_1 {
             double d = input.nextDouble();
             System.out.println("入力した値: "+d);
         }catch (InputMismatchException e){
-            System.out.println("エラー");
+            System.out.println("error");
         }
     }
 }
